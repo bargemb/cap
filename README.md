@@ -1,5 +1,6 @@
 # CAP :tophat:
 
+## Introduction
 Wikipedia:
 > In theoretical computer science, the CAP theorem, also named Brewer's theorem after computer scientist Eric Brewer, states that it is impossible for a distributed data store to simultaneously provide more than two out of the following three guarantees:
 > * Consistency: Every read receives the most recent write or an error
@@ -10,7 +11,7 @@ Wikipedia:
 
 This project aims to test **Partition Tolerance** of two NoSQL databases.
 
-## Project Goals
+## Goals
 - [ ] Research and select one **AP** and one **CP** NoSQL database
 - [ ] Setup cluster of EC2 instances for each selected database
 - [ ] Decide approach to create network partitions for experiments
@@ -20,13 +21,12 @@ This project aims to test **Partition Tolerance** of two NoSQL databases.
   - [ ] Reading stale data during partition
   - [ ] System function during partition recovery mode
 
-## Project Journal
-
+## Journal
 Project Journal available at following locations for this project.
 
-[Week 1 Report](Project%20Journal/Week%201%20Report.md)
+[Week 1 Report](Journal/Week%201%20Report.md)
 
-[Week 2 Report](Project%20Journal/Week%202%20Report.md)
+[Week 2 Report](Journal/Week%202%20Report.md)
 
-[Week 3 Report](Project%20Journal/Week%203%20Report.md)
+[Week 3 Report](Journal/Week%203%20Report.md)
 
