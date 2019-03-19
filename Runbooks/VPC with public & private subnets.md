@@ -13,3 +13,5 @@
 4. Select all the default configurations. Make sure to add NAT instance instead of NAT gateway to avoid charges
 
    ![VPC configurations](../Resources/VPC&#32;Configurations.png)
+
+5. Associate security group of NAT instance to all the private instances so as to access internet from private subnet
