@@ -32,7 +32,11 @@ Project Journal available at following locations for this project.
 
 ## AWS Network Architecture
 
-### MongoDB
+### MongoDB (Consistency with Network Partition)
 
 ![AWS Network Diagram MongoDB](Resources/AWS&#32;Network&#32;Diagram&#32;-&#32;MongoDB.png)
+
+### Cassandra (Availability with Network Partition)
+
+![AWS Network Diagram Cassandra](Resources/AWS&#32;Network&#32;Diagram&#32;-&#32;Cassandra.png)
 
