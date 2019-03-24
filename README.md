@@ -30,3 +30,9 @@ Project Journal available at following locations for this project.
 
 [Week 3 Report](Journal/Week%203%20Report.md)
 
+## AWS Network Architecture
+
+### MongoDB
+
+![AWS Network Diagram MongoDB](Resources/AWS&#32;Network&#32;Diagram&#32;-&#32;MongoDB.png)
+
