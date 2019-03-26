@@ -24,11 +24,11 @@ This project aims to test **Partition Tolerance** of two NoSQL databases.
 ## Journal
 Project Journal available at following locations for this project.
 
-[Week 1 Report](Journal/Week%201%20Report.md)
+[Week 1 Report (3/10-3/16)](Journal/Week%201%20Report.md)
 
-[Week 2 Report](Journal/Week%202%20Report.md)
+[Week 2 Report (3/17-3/23)](Journal/Week%202%20Report.md)
 
-[Week 3 Report](Journal/Week%203%20Report.md)
+[Week 3 Report (3/24-3/30)](Journal/Week%203%20Report.md)
 
 ## AWS Network Architecture
 
