@@ -12,14 +12,14 @@ Wikipedia:
 This project aims to test **Partition Tolerance** of two NoSQL databases.
 
 ## Goals
-- [ ] Research and select one **AP** and one **CP** NoSQL database
-- [ ] Setup cluster of EC2 instances for each selected database
-- [ ] Decide approach to create network partitions for experiments
-- [ ] Record findings from following scenario
-  - [ ] System function during normal mode
-  - [ ] Effect on nodes during partition
-  - [ ] Reading stale data during partition
-  - [ ] System function during partition recovery mode
+- [x] Research and select one **AP** and one **CP** NoSQL database
+- [x] Setup cluster of EC2 instances for each selected database
+- [x] Decide approach to create network partitions for experiments
+- [x] Record findings from following scenario
+  - [x] System function during normal mode
+  - [x] Effect on nodes during partition
+  - [x] Reading stale data during partition
+  - [x] System function during partition recovery mode
 
 ## Journal
 Project Journal available at following locations for this project.
